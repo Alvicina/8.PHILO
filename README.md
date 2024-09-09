@@ -1,3 +1,6 @@
+This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. In order to do that, the subject require us to implement the well-known "Dining philosophers problem". The program is a simulation of this problem:
+https://en.wikipedia.org/wiki/Dining_philosophers_problem
+![Screenshot from 2024-09-09 18-03-10](https://github.com/user-attachments/assets/087c57db-d064-4589-b6f6-fcabcf42d058)
 
 This project was first done and finished in a different repo to this one (42 camps provides us with independent repos for each project). Once finished, the project was then copied to my personal repo in gitHub.
 
