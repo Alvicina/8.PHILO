@@ -1,5 +1,6 @@
-This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. In order to do that, the subject require us to implement the well-known "Dining philosophers problem". The program is a simulation of this problem:
-https://en.wikipedia.org/wiki/Dining_philosophers_problem
+This project aims to teach concurrent programming, focusing on multithreading and multiprocessing. In order to do that, the subject require us to implement the well-known "Dining philosophers problem". The program is a simulation of this problem where each philo is represented by a thread.
+
+In the link below you can find some info about the so called philo problem: https://en.wikipedia.org/wiki/Dining_philosophers_problem
 
 
 ![Screenshot from 2024-09-10 18-17-49](https://github.com/user-attachments/assets/0e05a120-878e-4795-b80a-f55f3f4fce6b)
